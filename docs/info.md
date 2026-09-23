@@ -13,7 +13,7 @@ es una prueba
 
 ## How to test
 
-testeando
+probandolo
 
 ## External hardware
 
